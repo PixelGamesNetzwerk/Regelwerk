@@ -89,7 +89,7 @@
     - **Absatz 11.3:** Schreiben in durchgehender Großschreibung (CAPSLOCK) ist zu unterlassen, um die Lesbarkeit zu gewährleisten.
     - **Absatz 11.4:** Das Spammen mit Farb-Codes ist verboten.
     - **Absatz 11.5:** Das Posten von externen Links im Chat ist ohne Genehmigung untersagt.
-    - **Absatz 11.6:** Aufforderungen zum Spammensind verboten.
+    - **Absatz 11.6:** Aufforderungen zum Spammen sind verboten.
     - **Absatz 11.7:** Drogenverherrlichende, gewaltverherrlichende oder sonstige unangemessene Inhalte sind im Chat nicht gestattet.
     - **Absatz 11.8:** Das Verfassen und Verbreiten von Fake-Nachrichten (z. B. „Du hast Spieler XYZ 100$ gegeben“) ist verboten.
 - **Absatz 12:** Handel
@@ -98,4 +98,4 @@
     - **Absatz 12.3:** Fake-Gebote sind nicht erwünscht.
 
 - **Absatz 13:** Das Tragen von Capes oder Skins mit rechtswidrigen, gewaltverherrlichenden oder pornografischen Inhalten, insbesondere in Verbindung mit Mods wie LabyMod oder OptiFine, ist verboten.
-- **Absatz 14:** Absatz 14: Der Handel mit Fremdwährungen, z.B. LabyMod, ist verboten.
+- **Absatz 14:** Der Handel mit Fremdwährungen, z.B. LabyMod, ist verboten.
